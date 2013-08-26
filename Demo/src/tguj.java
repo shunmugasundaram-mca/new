@@ -1,4 +1,3 @@
-
 public class tguj {
 
 	/**
@@ -6,7 +5,7 @@ public class tguj {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+sysout();
 	}
 
 }
